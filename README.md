@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @dongska
+- # Hello！你好！Привет！こんにちは！안녕하세요！
+- 👋 I’m @dongska
 - 👀 I’m interested in photography
 - 🌱 I’m currently learning Linux/c++/fucking math
 - 📫 How to reach me QQ:404050658
