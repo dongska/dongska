@@ -3,7 +3,7 @@ Hello there 👋
 
 I'm Songkun Dong, a final year computer science and artificial intelligence student at Harbin University of Science and Technology.
 
-This year, I am preparing for my graduate school entrance exam 📚. It wasn't until my third year of college that I truly understood what university is all about 🎓. Now, I realize there is so much to learn 🌟. I have a favorite teacher, @ChenChen-hrbust 👩‍🏫, and I genuinely want to acquire new knowledge and skills 💡, whether it be from my teacher or based on my own interests 🌱.
+This year, I am preparing for my graduate school entrance exam 📚. It wasn't until my third year of college that I truly understood what university is all about 🎓. Now, I realize there is so much to learn 🌟.  I have a favorite teacher, [@ChenChen-hrbust](https://github.com/ChenChen-hrbust)👩‍🏫, and I genuinely want to acquire new knowledge and skills 💡, whether it be from my teacher or based on my own interests 🌱.
 
 ## 📌 Pinned Repositories
 
