@@ -11,6 +11,14 @@ My favorite company is Apple <img src="https://simpleicons.org/icons/apple.svg" 
 
 <br>
 
+<a href="https://github.com/dongska/DeepLearning">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dongska&repo=DeepLearning&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<br>
+
 <a href="https://github.com/dongska/Flappy-Bird-EasyX">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dongska&repo=Flappy-Bird-EasyX&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -33,19 +41,3 @@ My favorite company is Apple <img src="https://simpleicons.org/icons/apple.svg" 
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C%2B%2B&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=Matlab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Math-Calculus-informational?style=flat&logo=mathworks&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Math-Linear_Algebra-informational?style=flat&logo=mathworks&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Math-Probability-informational?style=flat&logo=mathworks&logoColor=white&color=4AB197)
-
-![](https://img.shields.io/badge/Design-Lightroom-informational?style=flat&logo=Adobe%20Lightroom&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Design-Photoshop-informational?style=flat&logo=Adobe%20Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Design-Premiere_Pro-informational?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white&color=4AB197)
-
-
-### Unlock Skills
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&logoColor=white&color=4AB197)
